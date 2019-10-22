@@ -5,7 +5,7 @@ An online platform where customers can view Delhani studios portfolio.
 # AUTHOR.
 Ian Warui.
 
-DESCRIPTION.
+#DESCRIPTION.
 Delani studios is a online website where customers can view delani studios portfolio and comment on the portfolio.
 
 SETUP.
