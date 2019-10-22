@@ -6,7 +6,7 @@ AUTHOR.
 Ian Warui.
 
 DESCRIPTION.
-Marco's Pizza is an online website where customers can order pizza and also get delivery.
+Delani studios is a online website where customers can view delani studios portfolio and comment on the portfolio.
 
 SETUP.
 Clone the repository to your local computer.
