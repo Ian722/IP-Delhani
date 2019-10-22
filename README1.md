@@ -13,7 +13,7 @@ Clone the repository to your local computer.
 Open the project folder
 Open project folder using Atom Editor or Microsoft Visual Studio.
 
-## Technologies Used
+## Technologies Used.
 HTML
 CSS
 webkit
