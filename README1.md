@@ -1,6 +1,6 @@
 IP-wk4
-MARCO'S PIZZA
-A Pizza restaurant website where customers can make orders online.
+DELHANI STUDIOS
+An online platform where customers can view Delhani studios portfolio.
 
 AUTHOR.
 Ian Warui.
