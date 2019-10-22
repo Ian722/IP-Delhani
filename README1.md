@@ -2,7 +2,7 @@
 # DELHANI STUDIOS
 An online platform where customers can view Delhani studios portfolio.
 
-AUTHOR.
+# AUTHOR.
 Ian Warui.
 
 DESCRIPTION.
