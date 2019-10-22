@@ -1,5 +1,5 @@
 IP-wk4
-DELHANI STUDIOS
+# DELHANI STUDIOS
 An online platform where customers can view Delhani studios portfolio.
 
 AUTHOR.
